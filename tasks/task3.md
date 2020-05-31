@@ -20,7 +20,10 @@ index.html 파일을 열고 게임을 직접 실행해 봅시다.
 
 ### 정답
 
-(여기에 버그를 유발한 커밋의 id와 어떻게 하면 버그를 수정할 수 있는지 적어주세요.)
+커밋ID : 25ede836903881848fea811df5b687b59d962da3
+수정사항 중 
+game.js 에서 삭제처리된 this.delayBeforeBullet = 10;을 다시 입력하고 add, commit 한다.
+
 
 ### 힌트
 
